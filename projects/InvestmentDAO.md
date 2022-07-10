@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Investment DAO
 parent: Projects
 nav_order: 1
 ---
