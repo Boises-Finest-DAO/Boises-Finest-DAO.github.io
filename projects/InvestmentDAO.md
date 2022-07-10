@@ -1,3 +1,10 @@
+---
+layout: default
+title: Buttons
+parent: Projects
+nav_order: 1
+---
+
 # Investment DAO
 
 ## Overview
