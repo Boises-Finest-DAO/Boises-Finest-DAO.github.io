@@ -21,3 +21,13 @@ Investment DAO Manager is a DAO Governance Portal aimed at crypto investment DAO
     1. General Votes - This type of ballot can be used as a cache all for any type of organizational policies or off-chain actons.
     2. Create Fund - This type of ballot is used to vote on the create of a new investment fund and trading bot.
     3. Disolve Fund - This type of ballot is used to vote on selling all assets in a fund and returning the funds to the respective DAO members.
+
+## Status
+
+We are currently developing the smart conctract for DAO Governance as well as the iOS App. As majority of the world operates from their phones, we have decided to not build a website management portal at this time. However, if you are interested in helping port the iOS app to Android, please reach out to us at help@boisesfinest.com.
+
+## Current Issues
+
+1. FCL-Swift needs updates - FCL-Swift currently does not support account proofs which are needed to properly secure access to the backend and access the trading bots. The FCL-Swift project has received a bounty from the Flow Development Fund and it is expected to be fully compliant with standard FCL by the end of the year.
+    * Until this is resolved we will not be able to move beyond a private beta phase as we must tightly control who has access to the backend.
+2. V1 of the Governance Contract will not support adding additional funds to investment funds. There are some complexities that need to be be worked out between the bot platform's current inabbility to save state between reboots and tracking contributions/evaluation in the smart contract.
