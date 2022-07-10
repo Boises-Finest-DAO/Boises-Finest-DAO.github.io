@@ -31,3 +31,8 @@ We are currently developing the smart conctract for DAO Governance as well as th
 1. FCL-Swift needs updates - FCL-Swift currently does not support account proofs which are needed to properly secure access to the backend and access the trading bots. The FCL-Swift project has received a bounty from the Flow Development Fund and it is expected to be fully compliant with standard FCL by the end of the year.
     * Until this is resolved we will not be able to move beyond a private beta phase as we must tightly control who has access to the backend.
 2. V1 of the Governance Contract will not support adding additional funds to investment funds. There are some complexities that need to be be worked out between the bot platform's current inabbility to save state between reboots and tracking contributions/evaluation in the smart contract.
+
+## Related Projects
+
+1. Project Toucans from Emerald City DAO.
+    * We are huge supportors of Emerald City DAO and the work they are doing with Project Toucans. Our project is specefic to a much more limited set of DAO Governance models and voting options. As both projects evolve we hope to work with Project Toucans to ensure investment DAOs utilziing Project Toucans can also use the addtional features avaiable within our project.

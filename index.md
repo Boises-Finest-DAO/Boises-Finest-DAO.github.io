@@ -4,6 +4,8 @@ title: Home
 nav_order: 1
 ---
 
-## Welcome to Boise's Finest DAO
+# Welcome to Boise's Finest DAO
 
-This page was setup to share updates on our various projects
+We are small group of growth minded individuals working collectively on various investments and projects.
+
+This page was setup to share public updates
